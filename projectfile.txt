@@ -1,3 +1,5 @@
 Develop branch edit
 
 This is a edit on github to show pull command. 
+
+This is a conflicting situation
